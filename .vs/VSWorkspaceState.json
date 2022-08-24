@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\Components",
-    "\\src\\Components\\TutorialHeader"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\Components\\TutorialHeader\\tutorial-header.scss",
   "PreviewInSolutionExplorer": false
 }
